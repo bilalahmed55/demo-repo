@@ -31,3 +31,9 @@ Git is a version control system that lets you manage and keep track of your sour
 Working Directory,
 Staging Directory,
 Git Directory
+
+# Question 6
+
+Soft,
+Mixed,
+Hard
