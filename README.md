@@ -28,6 +28,6 @@ Git is a version control system that lets you manage and keep track of your sour
 
 # Question 5
 
-Working Directory
-Staging Directory
+Working Directory,
+Staging Directory,
 Git Directory
