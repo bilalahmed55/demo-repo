@@ -21,3 +21,7 @@ Continuous deployment goes one step further than continuous delivery. With this 
 # Question# 3
 
 Cloud computing offers modern businesses flexibility, efficiency, scalability, security, increased collaboration and reduced costs.
+
+# Question# 4
+
+Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories.
