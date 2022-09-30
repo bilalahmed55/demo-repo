@@ -25,3 +25,9 @@ Cloud computing offers modern businesses flexibility, efficiency, scalability, s
 # Question# 4
 
 Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories.
+
+# Question 5
+
+Working Directory
+Staging Directory
+Git Directory
