@@ -16,3 +16,8 @@ Continuous delivery is an extension of continuous integration since it automatic
 ## COntinuous Deployment
 
 Continuous deployment goes one step further than continuous delivery. With this practice, every change that passes all stages of your production pipeline is released to your customers. There's no human intervention, and only a failed test will prevent a new change to be deployed to production.
+
+
+# Question# 3
+
+Cloud computing offers modern businesses flexibility, efficiency, scalability, security, increased collaboration and reduced costs.
