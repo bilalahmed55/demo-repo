@@ -28,7 +28,7 @@ Git is a version control system that lets you manage and keep track of your sour
 
 # Question 5
 
-Working Directory,
+Working Directory, the change which i did
 Staging Directory,
 Git Directory
 
